@@ -18,7 +18,7 @@ Prosta aplikacja do zarządzania listą jamników (dachshunds). Backend w Node.j
 1. Sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/Reiv21/E218
+git clone https://github.com/Reiv21/dachshunds-manager
 cd E218
 ```
 
